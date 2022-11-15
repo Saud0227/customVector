@@ -1,2 +1,2 @@
 # customVector
-Saud custom vector for pyhton
+Saud custom vector for python
